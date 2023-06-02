@@ -3,7 +3,9 @@ MS Excel is a powerful spreadsheet program by Microsoft, designed to help users 
 
 
 # STOCK MARKET ANALYSIS #
-💹 The project demonstrated the practical application of various Excel concepts, such as Data Validation 🔍 for creating drop-down lists, 
+
+💹 The project demonstrated the practical application of various Excel concepts, such as 
+* Data Validation 🔍 for creating drop-down lists, 
 * the Today()⏰ function for getting the present date, 
 * the INDEX() function and MATCH()🔍 function for dynamic lookups, 
 * Named Ranges and Dynamic Ranges🔄 for managing data ranges, 
