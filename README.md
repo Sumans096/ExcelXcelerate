@@ -50,6 +50,7 @@ Embark on this exciting e-commerce sales analysis journey with me, and together,
 * Text functions such as LEFT() and FIND()🔤 for manipulating text data, 
 * LOOKUP formula for searching for values in a range, and 
 * pivot tables🔄 for summarizing and analyzing large datasets.
+* A slicer in Excel is a visual filtering tool that allows users to easily filter and analyze data by selecting specific values or categories.
 
 * We can draw several conclusion from this project are --
 
